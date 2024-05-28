@@ -1,3 +1,3 @@
-# learning
+# LEARNING
 
-we are learning how to fork and make pull request
+We are learning how to fork and make pull requests.
